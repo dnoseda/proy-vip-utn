@@ -1,8 +1,5 @@
 package vip.utn
-import java.io.StringReader
-import net.sf.json.JSON
-import net.sf.json.groovy.JsonSlurper
-
+import grails.converters.*
 
 class ItemService {
 
@@ -15,20 +12,9 @@ class ItemService {
 		File itemFile = new File(baseDir,"${key}.json")
 		if(itemFile.exists()){
 			String jsonText = itemFile.getText()
-			return JsonParser.parse(jsonText)
+			return JSON.parse(jsonText)
 		}else{
 			return null
 		}
 	}
-	def parse(jsonString) throws Exception {
-		StringReader reader= new StringReader(jsonString);
-		try {
-			JSON jsonParsed= new JsonSlurper().parse(reader);
-			return jsonParsed;
-		} catch ( e) {
-			throw new Exception("Error parsing ["+jsonString+"]", e);
-		}
-	}
-
-
 }
