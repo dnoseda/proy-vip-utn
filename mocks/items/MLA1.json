@@ -12,14 +12,14 @@
     "date_created": "2011-08-09T15:07:03.000Z", 
     "descriptions": [
         {
-            "id": "MLA123385500-148558366"
+            "id": "MLA1-148558366"
         }
     ], 
     "geolocation": {
         "latitude": "", 
         "longitude": ""
     }, 
-    "id": "MLA123385500", 
+    "id": "MLA1", 
     "initial_quantity": 100, 
     "last_updated": "2011-10-14T14:36:52.000Z", 
     "listing_type_id": "gold_premium", 

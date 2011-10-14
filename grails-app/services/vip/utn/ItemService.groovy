@@ -3,9 +3,10 @@ import grails.converters.*
 
 class ItemService {
 
-    static transactional = false
+	static transactional = false
 
 	def getItem(String itemId) {
+		println "pidiendo item $itemId"
 		String key = itemId
 
 		File baseDir = new File("mocks/items/")
@@ -14,6 +15,7 @@ class ItemService {
 			String jsonText = itemFile.getText()
 			return JSON.parse(jsonText)
 		}else{
+			println "file $itemFile doesn't exists"
 			return null
 		}
 	}
