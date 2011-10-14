@@ -1,0 +1,157 @@
+{
+    "accepts_mercadopago": true, 
+    "attributes": [], 
+    "available_quantity": 14, 
+    "base_price": 1399.9000000000001, 
+    "buying_mode": "buy_it_now", 
+    "catalog_product_id": 30232, 
+    "category_id": "MLA32321", 
+    "condition": "new", 
+    "coverage_areas": [], 
+    "currency_id": "ARS", 
+    "date_created": "2011-08-09T15:07:03.000Z", 
+    "descriptions": [
+        {
+            "id": "MLA123385500-148558366"
+        }
+    ], 
+    "geolocation": {
+        "latitude": "", 
+        "longitude": ""
+    }, 
+    "id": "MLA123385500", 
+    "initial_quantity": 100, 
+    "last_updated": "2011-10-14T14:36:52.000Z", 
+    "listing_type_id": "gold_premium", 
+    "location": "", 
+    "non_mercado_pago_payment_methods": [
+        {
+            "description": "MasterCard", 
+            "id": "MLAMC", 
+            "type": "C"
+        }, 
+        {
+            "description": "Mastercard Maestro", 
+            "id": "MLAMS", 
+            "type": "D"
+        }, 
+        {
+            "description": "Visa Electron", 
+            "id": "MLAVE", 
+            "type": "D"
+        }, 
+        {
+            "description": "Transferencia Bancaria", 
+            "id": "MLATB", 
+            "type": "G"
+        }, 
+        {
+            "description": "Visa", 
+            "id": "MLAVS", 
+            "type": "C"
+        }, 
+        {
+            "description": "A convenir", 
+            "id": "MLAWC", 
+            "type": "G"
+        }, 
+        {
+            "description": "Efectivo", 
+            "id": "MLAMO", 
+            "type": "G"
+        }
+    ], 
+    "parent_item_id": "MLA112175680", 
+    "permalink": "http://articulo.mercadolibre.com.ar/MLA-123385500-apple-ipod-touch-8-gb-4ta-generacion-filma-hd-envio-gratis-_JM", 
+    "pictures": [
+        {
+            "id": "MLA102594247_9098", 
+            "max_size": "500x500", 
+            "quality": "", 
+            "secure_url": "https://www.mercadolibre.com/jm/img?s=MLA&v=O&f=102594247_9098.jpg", 
+            "size": "500x500", 
+            "url": "http://img2.mlstatic.com/s_MLA_v_O_f_102594247_9098.jpg"
+        }, 
+        {
+            "id": "MLA102594247_2970", 
+            "max_size": "333x333", 
+            "quality": "", 
+            "secure_url": "https://www.mercadolibre.com/jm/img?s=MLA&v=O&f=102594247_2970.jpg", 
+            "size": "333x333", 
+            "url": "http://img2.mlstatic.com/s_MLA_v_O_f_102594247_2970.jpg"
+        }, 
+        {
+            "id": "MLA102594247_647", 
+            "max_size": "333x333", 
+            "quality": "", 
+            "secure_url": "https://www.mercadolibre.com/jm/img?s=MLA&v=O&f=102594247_647.jpg", 
+            "size": "333x333", 
+            "url": "http://img1.mlstatic.com/s_MLA_v_O_f_102594247_647.jpg"
+        }, 
+        {
+            "id": "MLA102594247_2553", 
+            "max_size": "333x333", 
+            "quality": "", 
+            "secure_url": "https://www.mercadolibre.com/jm/img?s=MLA&v=O&f=102594247_2553.jpg", 
+            "size": "333x333", 
+            "url": "http://img1.mlstatic.com/s_MLA_v_O_f_102594247_2553.jpg"
+        }, 
+        {
+            "id": "MLA102594247_9871", 
+            "max_size": "333x333", 
+            "quality": "", 
+            "secure_url": "https://www.mercadolibre.com/jm/img?s=MLA&v=O&f=102594247_9871.jpg", 
+            "size": "333x333", 
+            "url": "http://img1.mlstatic.com/s_MLA_v_O_f_102594247_9871.jpg"
+        }, 
+        {
+            "id": "MLA102594247_5086", 
+            "max_size": "333x333", 
+            "quality": "", 
+            "secure_url": "https://www.mercadolibre.com/jm/img?s=MLA&v=O&f=102594247_5086.jpg", 
+            "size": "333x333", 
+            "url": "http://img1.mlstatic.com/s_MLA_v_O_f_102594247_5086.jpg"
+        }
+    ], 
+    "price": 1399.9000000000001, 
+    "seller_address": {
+        "address_line": "", 
+        "city": {
+            "id": "", 
+            "name": "Palermo"
+        }, 
+        "comment": "", 
+        "country": {
+            "id": "AR", 
+            "name": "Argentina"
+        }, 
+        "id": 51775758, 
+        "latitude": "", 
+        "longitude": "", 
+        "state": {
+            "id": "AR-C", 
+            "name": "Capital Federal"
+        }, 
+        "zip_code": ""
+    }, 
+    "seller_contact": "", 
+    "seller_id": 7055243, 
+    "shipping": {
+        "free_shipping": false, 
+        "local_pick_up": true, 
+        "profile_id": ""
+    }, 
+    "site_id": "MLA", 
+    "sold_quantity": 164, 
+    "start_time": "2011-08-09T15:06:53.000Z", 
+    "status": "active", 
+    "stop_time": "2011-12-06T17:57:58.000Z", 
+    "sub_status": [], 
+    "subtitle": "Local Palermo Fscomputers Dist Autorizado Garant\u00eda Oficial Fact A O B", 
+    "thumbnail": "http://img2.mlstatic.com/s_MLA_v_I_f_102594247_9098.jpg", 
+    "title": "Apple Ipod Touch 8 Gb 4ta Generacion Filma Hd Envio Gratis", 
+    "variations": [], 
+    "varying_attributes": [], 
+    "video_id": "", 
+    "warranty": "GARANTIA OFICIAL POR 1 A\u00d1O"
+}
