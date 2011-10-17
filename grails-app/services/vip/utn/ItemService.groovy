@@ -9,7 +9,8 @@ class ItemService {
 	def getItem(String itemId) {
 		RESTClient rest = new RESTClient()
 
-		Object resp = rest.get([uri: "http://ec2-67-202-25-72.compute-1.amazonaws.com:8080", path : '/items/${itemId}', contentType : JSON])
+		println "/items/${itemId}"
+		Object resp = rest.get([uri: "http://ec2-67-202-25-72.compute-1.amazonaws.com:8080", path : "/items/${itemId}", contentType : JSON])
 		//Object resp = rest.get([uri: "http://ec2-67-202-25-72.compute-1.amazonaws.com:8080", path : '/items/MLA123456', contentType : JSON])
 
 		println resp.getStatus()
