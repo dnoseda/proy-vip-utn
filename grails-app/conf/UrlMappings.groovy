@@ -6,7 +6,7 @@ class UrlMappings {
 				// apply constraints here
 			}
 		}
-		name natural: "/${itemId}/${title}"{
+		name natural: "/articulo/${itemId}/${title}"{
 			controller = "vip"
 			action = "index"
 		}
