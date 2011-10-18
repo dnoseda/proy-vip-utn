@@ -2,12 +2,9 @@
 <html lang="es" class="no-js">
   <head>
 
-    <link rel="stylesheet" href="http://www.chico-ui.com.ar/versions/0.7.9/chico-min-0.7.9.css">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <link rel='icon' href='http://vip.mlstatic.com/images/favicon__v80d758319a5.ico' type='image/vnd.microsoft.icon'/>
     <title>
       ${item.title}</title>
-    <link rel='stylesheet' type='text/css' href='http://vip.mlstatic.com/css/classified__v80d758319a5.gz.css' />
   </head>
   <body>
     <div class="header mainHeader ml home">
@@ -44,8 +41,8 @@
 			</ul>
 		</div>
 
-		<script type="text/javascript" src="http://www.chico-ui.com.ar/src/js/jquery.js"></script>
-		<script type="text/javascript" src="http://www.chico-ui.com.ar/versions/0.7.9/chico-min-0.7.9.js"></script>
+		<script type="text/javascript" src="/js/jquery.js"></script>
+		<script type="text/javascript" src="/js/chico-min-0.7.9.js"></script>
 	
       <script type="text/javascript">
         $(".gallery").carousel();
@@ -107,6 +104,8 @@
     </div>
     <!-- footer END -->
     <!--/div-->
+    <link rel='stylesheet' type='text/css' href='/css/base.css' />
+    <link rel="stylesheet" type='text/css'href="/css/chico-min-0.7.9.css">
   </body>
 </html>
 
